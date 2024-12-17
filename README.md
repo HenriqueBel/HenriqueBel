@@ -26,6 +26,13 @@ Iniciando estudos com:
 
 <p align="left">Linguagem em desenvolvimento<p>
 
-<img src="https://icons8.com.br/icon/PXTY4q2Sq2lG/javascript"/>
+<img src="https://img.icons8.com/?size=48&id=108784&format=png" width=30px/>
+
+
+[![Henrique stats](https://github-readme-stats.vercel.app/api?username=HenriqueBel)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBel)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=HenriqueBel-username)
 
 
